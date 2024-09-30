@@ -1,7 +1,5 @@
-deepface 
-opencv-python
-tf-keras
 streamlit
-opencv-python-headless  # Or opencv-python
-imageio[ffmpeg]         # Optional for video processing
+opencv-python-headless
+numpy
+deepface
 scipy
