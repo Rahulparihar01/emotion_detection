@@ -1,5 +1,12 @@
-streamlit
-opencv-python-headless
-numpy
-deepface
-scipy
+streamlit==1.27.0
+opencv-python-headless==4.8.0.74
+numpy==1.24.3
+deepface==0.0.79
+scipy==1.11.2
+tensorflow==2.13.0
+keras==2.13.1
+pandas==2.0.3
+gdown==4.7.1
+retina-face==0.0.13
+pillow==9.5.0
+matplotlib==3.7.2
